@@ -1,4 +1,4 @@
-- 👋 Hi, I’m rush
+- 👋 Hi, I’m Russel
 - 👀 I’m interested in backend design
 - 🌱 I’m currently learning Spring Framework
 
