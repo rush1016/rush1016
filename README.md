@@ -1,24 +1,23 @@
-# 👋 Hello, I'm Russel Mico!
+#  Hello, I'm Russel Mico!
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Computer Science student currently pursuing my Bachelor of Science. My primary focus is on creating seamless and engaging web applications, with a strong interest in both frontend and backend development.
+Welcome to my GitHub profile! I'm a passionate and dedicated Software Engineer. My primary focus is on creating seamless and engaging web applications, with a strong interest in both frontend and backend development.
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 **Student**: Pursuing a Bachelor of Science in Computer Science.
-- 💻 **Frontend Enthusiast**: I enjoy crafting interactive and user-friendly interfaces using **React**.
-- 🔧 **Backend Developer**: I'm also dedicated to building robust and scalable backends using **Java Spring Framework**.
-- 🛠️ **Current Project**: Developing an information system using web technologies.
+-  **Frontend Enthusiast**: I enjoy crafting interactive and user-friendly with the goal of making great user experience.
+-  **Backend Developer**: I'm also dedicated to building robust and scalable backend systems.
+-  **Current Project**: Developing an information system using web technologies.
 
-## 💡 Skills
+##  Skills
 
-- **Frontend Development**: React, JavaScript, HTML, CSS, Bootstrap
-- **Backend Development**: Java, Spring Framework, RESTful APIs
-- **Database Management**: MySQL, PostgreSQL
+- **Frontend Development**: React, VueJS, Javasript, and Typescript
+- **Backend Development**: Java, Spring Framework, PHP, Laravel, RESTful APIs
+- **Database Management**: MySQL, PostgreSQL, MongoDB
 - **Other Technologies**: Git, Linux
 
-## 🌱 Learning & Growth
+##  Learning & Growth
 
 I'm always eager to learn new technologies and improve my skills. Currently, I'm diving deeper into:
-- Advanced React patterns and hooks
-- Microservices architecture with Spring Boot
-- Cloud deployment with Docker and Kubernetes
+- Laravel API development
+- VueJS and composition API
+- Cloud deployment with Amazon AWS
